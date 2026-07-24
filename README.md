@@ -1,28 +1,36 @@
-# Hey, I'm Gabriel 👋
+<div align="center">
 
-**Software engineer · founder · certified chill dude**
+# Gabriel Teixeira
 
-I build practical software, turn ideas into products, and enjoy making the internet a little more interesting from Rio de Janeiro, Brazil.
+### Software engineer · Founder · Certified chill dude
 
-Currently a Software Engineer at [Vsoft Tecnologia](https://github.com/vsofttecnologia) and founder at **Studios Coxa**.
+**Building useful things from Rio de Janeiro, Brazil.**
 
-## What I build
+<a href="https://github.com/louistx?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/louistx?style=for-the-badge&logo=github&label=FOLLOW" /></a>
+<img alt="Rio de Janeiro" src="https://img.shields.io/badge/BASED%20IN-RIO%20DE%20JANEIRO-111111?style=for-the-badge" />
 
-- Backend systems and APIs with **C#** and **Python**
-- Web experiences with **TypeScript** and **JavaScript**
-- Experiments, tools, and side projects that solve useful little problems
+</div>
 
-## A few things worth opening
+<br />
 
-- **[FIAP Tech Challenge](https://github.com/louistx/fiap-tech-challenge)** — C# project work and backend engineering.
-- **[PICO](https://github.com/louistx/pico)** — Paste Image, Create Output.
-- **[SQL History Creator](https://github.com/louistx/sql-history-creator)** — JavaScript tooling for database history.
+I turn ideas into practical software: backend systems, web experiences, and small tools that make work a little smoother. Currently a Software Engineer at [Vsoft Tecnologia](https://github.com/vsofttecnologia) and founder at **Studios Coxa**.
 
-## Elsewhere
+## Toolkit
 
-📍 Rio de Janeiro, Brazil  
-💼 [GitHub](https://github.com/louistx) · Vsoft Tecnologia · Studios Coxa
+![C#](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
 
----
+## Selected work
 
-_Building things, learning loudly, staying chill._
+| Project | What it is |
+| :-- | :-- |
+| [**FIAP Tech Challenge**](https://github.com/louistx/fiap-tech-challenge) | C# project work and backend engineering. |
+| [**PICO**](https://github.com/louistx/pico) | Paste Image, Create Output. |
+| [**SQL History Creator**](https://github.com/louistx/sql-history-creator) | JavaScript tooling for database history. |
+
+<div align="center">
+  <br />
+  <i>Building things, learning loudly, staying chill.</i>
+</div>
