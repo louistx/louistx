@@ -33,6 +33,7 @@ I turn ideas into practical software: backend systems, web experiences, and smal
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-111111?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-111111?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
