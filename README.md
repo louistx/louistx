@@ -22,14 +22,6 @@ I turn ideas into practical software: backend systems, web experiences, and smal
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
 
-## Selected work
-
-| Project | What it is |
-| :-- | :-- |
-| [**FIAP Tech Challenge**](https://github.com/louistx/fiap-tech-challenge) | C# project work and backend engineering. |
-| [**PICO**](https://github.com/louistx/pico) | Paste Image, Create Output. |
-| [**SQL History Creator**](https://github.com/louistx/sql-history-creator) | JavaScript tooling for database history. |
-
 <div align="center">
   <br />
   <i>Building things, learning loudly, staying chill.</i>
