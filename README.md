@@ -13,7 +13,7 @@
 
 <br />
 
-I turn ideas into practical software: backend systems, web experiences, and small tools that make work a little smoother. Currently a Software Engineer at [Vsoft Tecnologia](https://github.com/vsofttecnologia) and founder at **Studios Coxa**.
+I turn ideas into practical software: backend systems, web experiences, and small tools that make work a little smoother. Currently a Software Engineer at [Vsoft Tecnologia](https://github.com/vsofttecnologia) and founder at **[Studios Coxa](https://github.com/studioscoxa)**.
 
 ## Toolkit
 
