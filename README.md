@@ -39,6 +39,9 @@ I turn ideas into practical software: backend systems, web experiences, and smal
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+![Web](https://img.shields.io/badge/Web-111111?style=for-the-badge&logo=googlechrome&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-111111?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-111111?style=for-the-badge&logo=android&logoColor=white)
 </div>
 
 <div align="center">
