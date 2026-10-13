@@ -39,12 +39,6 @@ I turn ideas into practical software: backend systems, web experiences, and smal
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-![Claude](https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=claude&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-111111?style=for-the-badge&logo=openrouter&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-111111?style=for-the-badge&logo=opencode&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-111111?style=for-the-badge&logo=huggingface&logoColor=white)
-
 </div>
 
 <div align="center">
