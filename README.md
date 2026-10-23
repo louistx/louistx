@@ -2,7 +2,7 @@
 
 # Gabriel Teixeira
 
-### Software engineer · Founder · Certified chill dude
+### Software engineer · Certified chill dude
 
 **Building useful things from Rio de Janeiro, Brazil.**
 
